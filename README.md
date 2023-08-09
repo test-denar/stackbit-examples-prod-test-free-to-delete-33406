@@ -1,4 +1,4 @@
-# Stackbit Examples
+# Stackbit Examples!
 
 A collection of examples that can be used to learn more about Stackbit or to be the basis for your new Stackbit project.
 
